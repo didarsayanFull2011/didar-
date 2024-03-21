@@ -1,0 +1,15 @@
+h1{
+  text-align:center;
+ color:green;
+  
+  
+}
+body{
+  background-color:Moccasin;
+}
+.pict{
+  border:3px solid darkgreen;
+  width:249px;
+  float:left;
+  margin:2.49px;
+}
